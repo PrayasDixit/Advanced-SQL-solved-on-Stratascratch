@@ -1,1 +1,1 @@
-In this repository, I will be adding all the advanced-level questions that I solve regularly using MySQL on the Stratascratch platform. There will be two files: one containing the questions in PDF format and the other containing the solutions in a Word document.
+In this repository, I will be adding all the advanced-level(Hard) questions that I solve regularly using MySQL on the Stratascratch platform. There will be two files: one containing the questions in PDF format and the other containing the solutions in a Word document.
